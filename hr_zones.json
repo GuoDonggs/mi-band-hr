@@ -1,0 +1,49 @@
+{
+    "device_name": "Xiaomi Smart Band 10 Pro",
+    "zones": [
+        {
+            "name": "放松",
+            "max": 95,
+            "color": "#CBFFCD",
+            "accent": "#AAE7AC"
+        },
+        {
+            "name": "热身",
+            "max": 115,
+            "color": "#4C98AF",
+            "accent": "#81B9C7"
+        },
+        {
+            "name": "燃脂",
+            "max": 134,
+            "color": "#00FF22",
+            "accent": "#4DFF65"
+        },
+        {
+            "name": "有氧",
+            "max": 157,
+            "color": "#E5F321",
+            "accent": "#F4F664"
+        },
+        {
+            "name": "无氧",
+            "max": 175,
+            "color": "#B06527",
+            "accent": "#D8BA93"
+        },
+        {
+            "name": "极限",
+            "max": 999,
+            "color": "#F43636",
+            "accent": "#EF9A9A"
+        }
+    ],
+    "display": {
+        "show_heart": true,
+        "show_zone_label": true,
+        "show_zone_bar": true,
+        "topmost": true,
+        "alignment": 1,
+        "font_scale": 1.5
+    }
+}
